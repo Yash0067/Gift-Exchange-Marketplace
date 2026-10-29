@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Runtime data
+marketplace.sqlite3
+marketplace.sqlite3-*
+
+# Local environment and tooling files
+.venv/
+venv/
+env/
+.env
+.DS_Store
